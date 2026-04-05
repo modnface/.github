@@ -46,7 +46,4 @@ compatibility with the tools they already use.
 `huggingface_hub` · `xet-core` · `hf_xet` · `transformers` · `datasets`  
 `gradio` · `git-xet` · S3-compatible object storage
 
----
-
 *ModnFace — The Hugging Face Hub, on your terms.*
-```
